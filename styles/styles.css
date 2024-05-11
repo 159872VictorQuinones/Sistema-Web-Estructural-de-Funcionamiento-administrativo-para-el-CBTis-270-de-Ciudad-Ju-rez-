@@ -1,0 +1,27 @@
+body {
+  background-color: #f7f7f7!important;
+}
+
+.title-login {
+  margin-bottom: 60px;
+}
+
+.text-bg {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.form-edit div label {
+ color: #f7f7f7;
+}
+
+.btn-requisicion {
+  background-color: #fff;
+  transition: all 0.250s ease;
+}
+
+.btn-requisicion:hover {
+  background-color: rgb(72, 72, 207);
+  color: #fff;
+}
